@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidHello</string>
+    <string name="file_menu">File</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_close">Close</string>
+    <string name="page_of">of</string>
+    <string name="no_pdf_open">No PDF open.\nUse File \u25B8 Open to select a PDF.</string>
+    <string name="first_page">First page</string>
+    <string name="previous_page">Previous page</string>
+    <string name="next_page">Next page</string>
+    <string name="last_page">Last page</string>
+    <string name="page_number">Page number</string>
+</resources>
